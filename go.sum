@@ -100,8 +100,9 @@ github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1/go.mod h1:Q3SI9o4m/ZMn
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/cloudflare/brotli-go v0.0.0-20191101163834-d34379f7ff93 h1:QrGfkZDnMxcWHaYDdB7CmqS9i26OAnUj/xcus/abYkY=
 github.com/cloudflare/brotli-go v0.0.0-20191101163834-d34379f7ff93/go.mod h1:QiTe66jFdP7cUKMCCf/WrvDyYdtdmdZfVcdoLbzaKVY=
-github.com/cloudflare/circl v1.2.1-0.20220809205628-0a9554f37a47 h1:YzpECHxZ9TzO7LpnKmPxItSd79lLgrR5heIlnqU4dTU=
 github.com/cloudflare/circl v1.2.1-0.20220809205628-0a9554f37a47/go.mod h1:qhx8gBILsYlbam7h09SvHDSkjpe3TfLA7b/z4rxJvkE=
+github.com/cloudflare/circl v1.3.3 h1:fE/Qz0QdIGqeWfnwq0RE0R7MI51s0M2E4Ga9kq5AEMs=
+github.com/cloudflare/circl v1.3.3/go.mod h1:5XYMA4rFBvNIrhs50XuiBJ15vF2pZn4nnUKZrLbUZFA=
 github.com/cloudflare/golibs v0.0.0-20170913112048-333127dbecfc h1:Dvk3ySBsOm5EviLx6VCyILnafPcQinXGP5jbTdHUJgE=
 github.com/cloudflare/golibs v0.0.0-20170913112048-333127dbecfc/go.mod h1:HlgKKR8V5a1wroIDDIz3/A+T+9Janfq+7n1P5sEFdi0=
 github.com/cloudflare/qtls-pq v0.0.0-20230103171413-e7a2fb559a0e h1:frfo+L0qloEb6Vj+qjS4pbAYSJQZAlUnKZu0uJoErac=
